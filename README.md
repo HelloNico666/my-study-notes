@@ -1,3 +1,22 @@
+# 📚 学习笔记 - Task04 接入AI能力
+
+## 📅 日期：2026-02-22
+
+### ✅ 学习内容
+- [x] 集成 AI 能力到你的工作台
+
+### 📖 学习心得
+在上一个任务完成的电商工作台中，接入了一个文本模型，根据商品基础信息生成抖音文案。<br>
+<img width="796" height="918" alt="微信图片_20260222204616_3_109" src="https://github.com/user-attachments/assets/f8bdd443-3b74-4f54-836c-a076ce18b260" /><br>
+以及一个图片转文本模型，根据上传的图片生成电商卖点文本和关键词。<br>
+<img width="756" height="871" alt="image" src="https://github.com/user-attachments/assets/f10cd427-9f66-4c01-bc4f-d0c4d92b54d6" />
+<br>
+<br>
+<br>
+
+
+
+
 # 📚 学习笔记 - Task03 动手做出原型
 
 ## 📅 日期：2026-02-17

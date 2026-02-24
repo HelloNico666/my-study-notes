@@ -1,3 +1,22 @@
+# 📚 学习笔记 - Task05 完整项目实战
+
+## 📅 日期：2026-02-24
+
+### ✅ 学习内容
+- [x] 完成一个功能完备的 AI 产品原型
+
+### 📖 学习心得
+出发点是希望做一个餐厅排班系统，利用AI能力帮助店长快速完成排班。系统中分别有员工管理、请假管理、班次设置和排班管理四大模块。<br>
+在排班管理模块中设置人员需求，AI再根据员工所擅长的工作、请假时间来排一周的班。目前功能还比较简陋，真实场景中还可利用AI预测每天的营业额，从而计算出所需的人员配置。<br>
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/2c028f22-b74c-414a-abff-4c3dbbbb1248" /><br>
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/15ef76a5-7d93-48ce-9568-dc68b8f16c93" />
+<br>
+<br>
+<br>
+
+
+
+
 # 📚 学习笔记 - Task04 接入AI能力
 
 ## 📅 日期：2026-02-22
